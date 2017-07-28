@@ -19,7 +19,7 @@ enabled control port on 9051:
 `python setup.py install`
 
 ## run bucket_brigade once to generate config file
-`bucekt_brigade`
+`bucket_brigade`
 
 ## open bucket brigade config (~/.bucket_brigade/config.json), and add the unhashed password:
 `this is my password`
