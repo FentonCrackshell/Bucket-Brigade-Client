@@ -1,0 +1,4 @@
+*.pyc
+bucket_brigade.egg-info/
+dist
+build
